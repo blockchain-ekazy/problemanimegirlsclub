@@ -1,0 +1,173 @@
+
+
+@font-face {
+  font-family: 'OpenSans-Bold';
+  src: url('../Fonts/OpenSans-Bold.ttf');
+}
+
+div {
+  font-family: 'OpenSans-Bold';
+}
+@font-face {
+  font-family: 'EricaOne-Regular';
+  src: url('../Fonts/EricaOne-Regular.ttf');
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'EricaOne-Regular';
+}
+  .AAA{
+      background-image: url('../Imgs/Vector.png');
+      min-height: 100vh;
+      background-position: center;
+      background-color: black;
+     
+      background-size: cover;
+      background-repeat: no-repeat;
+      padding-bottom: 40px;
+     
+     
+  }
+  .ist{
+    font-size: 75px;
+  }
+  .char{
+    font-size: 42px;
+    padding-top: 90px;
+  }
+  .chari{
+    font-size: 42px;
+  }
+  .nio{
+    color: #CB1717;
+  }
+  .logo{
+    width: 110px;
+  }
+  .rev{
+    font-size: 77px;
+  }
+  .UUU{
+    background-color: #aab9c1;
+  }
+  .magc{
+    font-family: 'OpenSans-Bold';
+    font-size: 24px;
+    font-weight: 500;
+    color: #444a4d;
+  }
+  .linki{
+    text-decoration: none !important;
+  }
+
+
+  .tbd{
+  background-color: #e830bb;
+    color: white;
+    font-size: 25px;
+   
+    cursor: pointer;
+
+    letter-spacing:2px;
+    font-family: 'OpenSans-Bold';
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius:  10px;
+  
+
+  }
+  .tbd1{
+   background-color: #e830bb;
+    color: white;
+    font-size: 25px;
+
+    cursor: pointer;
+
+    letter-spacing:2px;
+    font-family: 'OpenSans-Bold';
+    border: none;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius:  10px;
+  
+
+  }
+  .carto{
+    padding-top: 80px;
+  }
+/* .mnt{
+  padding-bottom: 90px;
+} */
+
+
+.btn.focus, .btn:focus{
+    box-shadow: none;
+}
+.sec2{
+  padding-top: 85px;
+}
+.quantity{
+ color:white;
+ font-family: 'OpenSans-Bold';
+ font-size: 30px;
+ padding-left: 45px;
+ padding-right: 45px;
+ border-radius: 7px;
+background-color: #e830bb;
+}
+.count{
+  background-color: #e830bb;
+  font-family: 'OpenSans-Bold';
+  font-size: 20px;
+  border: none;
+  color: white;
+}
+
+
+
+.dad{
+  font-size: 35px;
+  color: white;
+}
+.vega{
+  padding-left: 90px;
+}
+@media only screen and (max-width: 600px) {
+ .rev{
+   font-size: 70px;
+ }
+}
+@media only screen and (max-width: 600px) {
+  .set{
+    padding-top: 90px !important;
+  }
+ }
+ @media only screen and (max-width: 600px) {
+  .ist{
+    font-size: 40px;
+    padding-top: 40px;
+  }
+ }
+ @media only screen and (max-width: 600px) {
+  .char,.chari{
+    font-size: 30px;
+  
+  }
+ }
+ .icon{
+   width: 55px;
+   border-radius: 5px;
+ }
+ .ico{
+   padding-top: 70px;
+   padding-bottom: 25px;
+ }

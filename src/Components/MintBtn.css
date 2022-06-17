@@ -1,0 +1,254 @@
+script+iframe{
+    display: none !important;
+}
+svg.bubbles {
+    position: absolute;
+    top: -4000px;
+    left: -4000px;
+  }
+.Mint-button {
+    padding: 10px 45px;
+    font-size: 25px;
+    border: none;
+    color: #aab9c1;
+    position: relative;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .Mint-button:hover{
+    color:white;
+    background-color: #aab9c1;
+  }
+  
+  @keyframes move-1 {
+    0% {
+      transform: translate(0, 0);
+    }
+    99% {
+      transform: translate(0, -69px);
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes move-2 {
+    0% {
+      transform: translate(0, 0);
+    }
+    99% {
+      transform: translate(0, -109px);
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes move-3 {
+    0% {
+      transform: translate(0, 0);
+    }
+    99% {
+      transform: translate(0, -106px);
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes move-4 {
+    0% {
+      transform: translate(0, 0);
+    }
+    99% {
+      transform: translate(0, -77px);
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes move-5 {
+    0% {
+      transform: translate(0, 0);
+    }
+    99% {
+      transform: translate(0, -87px);
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes move-6 {
+    0% {
+      transform: translate(0, 0);
+    }
+    99% {
+      transform: translate(0, -73px);
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes move-7 {
+    0% {
+      transform: translate(0, 0);
+    }
+    99% {
+      transform: translate(0, -97px);
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes move-8 {
+    0% {
+      transform: translate(0, 0);
+    }
+    99% {
+      transform: translate(0, -101px);
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes move-9 {
+    0% {
+      transform: translate(0, 0);
+    }
+    99% {
+      transform: translate(0, -68px);
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes move-10 {
+    0% {
+      transform: translate(0, 0);
+    }
+    99% {
+      transform: translate(0, -104px);
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+  }
+  
+.alie1 {
+    width: 200px !important;
+    max-width: 100%;
+    margin-top: -270px;
+    margin-right: 150px !important;
+  }
+  .count {
+    color: white;
+    background-color: #67e191;
+    font-size: 22px;
+  }
+  
+  .quantity {
+    color: white;
+    font-size: 32px;
+    font-weight: 900;
+  }
+  
+  .btn.focus,
+  .btn:focus {
+    box-shadow: none;
+  }
+  @media only screen and (max-width: 600px) {
+    .sev {
+      font-size: 70px;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .tbd {
+      font-size: 15px;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    #gooey-button {
+      font-size: 35px;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+  }
+  
+  .opt {
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    max-width: 490px;
+  }
+  .btc {
+    font-size: 35px;
+    color: #67e191;
+  }
+  .uty {
+    /* padding-top: 250px; */
+  }
+  #gooey-button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: #67e191;
+  }
+  #gooey-button:hover .bubble {
+    background-color: white;
+  }
+  .maxbtn {
+    line-height: 0.9em;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 13px;
+    cursor: pointer;
+    font-weight: 500;
+  }
+  
+.opt {
+    background-color: #103132ab;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    max-width: 490px;
+  }
+
+  .quantityselector {
+    z-index: 10;
+    position: relative;
+  }
+
+  .count {
+    color: #aab9c1;
+    background-color: white;
+    font-size: 22px;
+  }
+  .count:hover{
+    color: white;
+    background-color: #aab9c1;
+  }
